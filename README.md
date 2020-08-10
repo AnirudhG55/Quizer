@@ -1,5 +1,5 @@
 # Quizer
-Android Application for Falshcards
+Android Application for Flashcards
 written in Java
 
 Description:
